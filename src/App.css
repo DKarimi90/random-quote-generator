@@ -52,7 +52,7 @@
   
 }
 .nav a.active {
-  color: tomato; 
+  color: black; 
   border-radius: 70%; 
   height: 2px; 
   margin-bottom: 20px;  
@@ -93,7 +93,7 @@ h2 {
   color: tomato; 
 }
 .btn {
-  color: tomato; 
+  color: black; 
   padding: 10px; 
   background: transparent;
   outline: none; 
@@ -110,13 +110,13 @@ h2 {
 }
 h4 {
   font-style: italic; 
-  color: yellow; 
+  color: black; 
 
 }
 body {
-  background-color: purple; 
+  background-color: rgb(250, 43, 250); 
 
 }
 h3 {
-  color: yellow; 
+  color: black; 
 }
