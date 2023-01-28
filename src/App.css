@@ -77,3 +77,22 @@ h1 {
 .footer h3 {
   color: tomato; 
 }
+.quotes {
+  background-color: rgb(243, 239, 237);
+  width: 50%; 
+  margin-left: 25%; 
+  height: 20vh; 
+  padding: 20px; 
+  box-shadow: 2px 2px 4px, -2px 0 4px; 
+  border-radius: 10px; 
+}
+p {
+  color: rgb(248, 9, 140); 
+}
+h2 {
+  color: tomato; 
+}
+.btn {
+  color: tomato; 
+}
+

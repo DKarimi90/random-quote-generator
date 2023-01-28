@@ -20,10 +20,12 @@ function Quotes() {
   }
 
   return (
-    <div>
-      <div>{currentQuote.text}</div>
-      <div>- {currentQuote.author}</div>
-      <button onClick={handleClick}>Get Random Quote</button>
+    <div className='quotes'>
+      <p>{currentQuote.text}</p>
+      <h2>
+      {currentQuote.author}
+      </h2>
+      <button className='btn' onClick={handleClick}>Get Random Quote</button>
     </div>
   );
 }
