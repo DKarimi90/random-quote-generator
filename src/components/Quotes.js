@@ -22,9 +22,9 @@ function Quotes() {
   return (
     <div className='quotes'>
       <p>{currentQuote.text}</p>
-      <h2>
+      <h4>
       {currentQuote.author}
-      </h2>
+      </h4>
       <button className='btn' onClick={handleClick}>Get Random Quote</button>
     </div>
   );

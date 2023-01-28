@@ -99,11 +99,12 @@ h2 {
   width: 60%; 
   margin-left: 15%; 
   background-color:rgb(243, 239, 237); 
-  height: 50vh; 
+  height: 80vh; 
   padding: 10px; 
   border-radius: 10px; 
   box-shadow: 1px 1px 2px, -1px 0 2px
 }
 h4 {
   font-style: italic; 
+
 }
