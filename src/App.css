@@ -52,7 +52,7 @@
   
 }
 .nav a.active {
-  color: tomato; 
+  color: rgb(247, 129, 82);; 
   border-radius: 70%; 
   height: 2px; 
   margin-bottom: 20px;  
@@ -62,7 +62,7 @@
   padding: 30px; 
 }
 h1 {
-  color: tomato; 
+  color: rgb(247, 129, 82);; 
 }
 .footer {
   height: 10vh; 
@@ -75,7 +75,7 @@ h1 {
   justify-content: center;
 }
 .footer h3 {
-  color: tomato; 
+  color: rgb(247, 129, 82);; 
 }
 .quotes {
   /* background: rgb(79, 79, 83, 0.6); */
@@ -90,7 +90,7 @@ p {
   color: beige; 
 }
 h2 {
-  color: tomato; 
+  color: rgb(247, 129, 82);; 
 }
 .btn {
   color: #fff; 
@@ -99,15 +99,15 @@ h2 {
   outline: none; 
   border: 1px solid; 
 }
-/* .container {
+.container {
   width: 60%; 
   margin-left: 15%; 
-  background:rgb(79, 79, 83, 0.6); 
+  /* background:rgb(79, 79, 83, 0.6);  */
   height: 80vh; 
   padding: 10px; 
   border-radius: 10px; 
   box-shadow: 1px 1px 2px, -1px 0 2px
-} */
+}
 h4 {
   font-style: italic; 
   color: rgb(247, 129, 82); 
