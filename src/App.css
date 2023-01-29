@@ -78,7 +78,7 @@ h1 {
   color: tomato; 
 }
 .quotes {
-  background: rgb(79, 79, 83, 0.6);
+  /* background: rgb(79, 79, 83, 0.6); */
   width: 50%; 
   margin-left: 25%; 
   height: 50vh; 
@@ -93,7 +93,7 @@ h2 {
   color: tomato; 
 }
 .btn {
-  color: black; 
+  color: #fff; 
   padding: 10px; 
   background: transparent;
   outline: none; 
@@ -113,12 +113,15 @@ h4 {
   color: rgb(247, 129, 82); 
 
 }
-body {
+/* body {
   background: url("https://images.unsplash.com/photo-1610621062045-ef5f7201bb3f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE0fHx8ZW58MHx8fHw%3D&w=1000&q=80");
   background-repeat: no-repeat;  
   background-size: cover;
   height: 100vh; 
 
+} */
+body { 
+  background-color: black;  
 }
 h3 {
   color: rgb(247, 129, 82);; 
