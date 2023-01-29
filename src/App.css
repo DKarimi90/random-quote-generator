@@ -52,7 +52,7 @@
   
 }
 .nav a.active {
-  color: black; 
+  color: tomato; 
   border-radius: 70%; 
   height: 2px; 
   margin-bottom: 20px;  
@@ -69,7 +69,7 @@ h1 {
   margin: 10px; 
   position: relative; 
   bottom: 0; 
-  top: 100vh; 
+  top: 75vh; 
   display: flex; 
   align-items: center;
   justify-content: center;
@@ -78,7 +78,7 @@ h1 {
   color: tomato; 
 }
 .quotes {
-  background-color: transparent;
+  background: rgb(79, 79, 83, 0.6);
   width: 50%; 
   margin-left: 25%; 
   height: 50vh; 
@@ -87,7 +87,7 @@ h1 {
   border-radius: 10px; 
 }
 p {
-  color: white; 
+  color: beige; 
 }
 h2 {
   color: tomato; 
@@ -102,7 +102,7 @@ h2 {
 .container {
   width: 60%; 
   margin-left: 15%; 
-  background-color: transparent; 
+  background:rgb(79, 79, 83, 0.6); 
   height: 80vh; 
   padding: 10px; 
   border-radius: 10px; 
@@ -110,13 +110,16 @@ h2 {
 }
 h4 {
   font-style: italic; 
-  color: black; 
+  color: rgb(247, 129, 82); 
 
 }
 body {
-  background-color: rgb(250, 43, 250); 
+  background: url("https://images.unsplash.com/photo-1610621062045-ef5f7201bb3f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE0fHx8ZW58MHx8fHw%3D&w=1000&q=80");
+  background-repeat: no-repeat;  
+  background-size: cover;
+  height: 100vh; 
 
 }
 h3 {
-  color: black; 
+  color: rgb(247, 129, 82);; 
 }
